@@ -71,8 +71,8 @@ Longueurs d'onde proposées : 850 nm, 1310 nm et 1550 nm.
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/VOTRE_NOM_UTILISATEUR/NOM_DU_DEPOT.git
-cd NOM_DU_DEPOT
+git clone https://github.com/emnakhouja12/gestionnaire-des-signaux2.git
+cd gestionnaire-des-signaux2
 ```
 
 ### 2. Installer les dépendances
